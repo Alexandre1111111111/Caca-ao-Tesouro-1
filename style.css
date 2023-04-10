@@ -14,12 +14,7 @@ h1 {
     font-size: 25px;
     text-align: center;
   }
-.header{
-  background-color: #23ad01;
-}
-  img{
-    width: 50%;
-    height: 50%;
-
-
+  html {
+    background-color: #98FB98;
   }
+
