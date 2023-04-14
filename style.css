@@ -24,7 +24,7 @@ html {
   font-family: "Open Sans", sans-serif;
 }
 img {
-  height: 450px;
+  height: 475px;
   border: 3px black solid;
   display: block;
   margin: 0 auto;
@@ -43,5 +43,5 @@ li {
   list-style-type: none;
 }
 h4 {
-  font-size: 40px; 
+  font-size: 30px; 
 }
